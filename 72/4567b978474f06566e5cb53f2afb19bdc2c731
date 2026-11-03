@@ -1,0 +1,23 @@
+tests/test_moe_align_invalid_routes.py
+  s_b5ff967c7393ad::t_9df7318d0904af 1-76
+csrc/jit_kernels/impls/moe_align.hpp
+  s_b5ff967c7393ad::t_f0417fbf766e9e 161,165,247,373-374
+deep_gemm/include/deep_gemm/impls/fused_gemm_util.cuh
+  s_b5ff967c7393ad::t_9cc0dd708cb6af 562,590,611,616,912
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "724567b978474f06566e5cb53f2afb19bdc2c731",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
