@@ -1,0 +1,37 @@
+csrc/apis/gemm.hpp
+  s_b5ff967c7393ad::t_339efa59d3a2d5 2000-2006
+csrc/jit_kernels/impls/moe_align.hpp
+  s_b5ff967c7393ad::t_64ec7e4c4f8afd 5-6,33,35,61,74,103,109,120,141,173,176,182,186-187,218,228,231-232,249,251,260,381-383,387,389,391,405,407,412,420-421,424-425,428,430,442,453,470
+deep_gemm/include/deep_gemm/impls/moe_align_unordered.cuh
+  s_b5ff967c7393ad::t_ed09d9992c1097 1-130
+tests/bench_moe_align.py
+  s_b5ff967c7393ad::t_41a08561bbc575 1-74
+tests/checkin/run_checkin.py
+  s_b5ff967c7393ad::t_e1c2571edde4b2 299-300,302,306-311
+tests/checkin/test_checkin_runner.py
+  s_b5ff967c7393ad::t_03857659fe44fc 48-49
+tests/test_fp4_core.py
+  s_b5ff967c7393ad::t_ca831725dde5f1 391,397,413,463-465
+tests/test_moe_align_invalid_routes.py
+  s_b5ff967c7393ad::t_a530adf6cf2cf8 9,24-26,29,34,40-78,83-93,96,98,105-106,108-109,113-119,132-134
+tests/test_w4a8.py
+  s_b5ff967c7393ad::t_5f87e32bd6eb1e 230,238,438,444
+tests/utils.py
+  s_b5ff967c7393ad::t_a37420167c4bf9 528,530-532,621,630,1828,1857-1860
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "91507d47f7b5f7a440edc6d46fa9fe1ae967534e",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
