@@ -1,0 +1,22 @@
+deep_gemm/include/deep_gemm/impls/moe_align_unordered.cuh
+  s_b5ff967c7393ad::t_9f70eb29c23a02 40
+  s_b5ff967c7393ad::t_d6c2c41264c622 88,100
+csrc/apis/gemm.hpp
+  s_b5ff967c7393ad::t_c7634fe22e85e4 2000
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d9ed14b80a513baac9ecc59b6bde10b800d49b6f",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
