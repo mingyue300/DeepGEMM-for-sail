@@ -1,0 +1,26 @@
+deep_gemm/include/deep_gemm/impls/fused_gemm_util.cuh
+  s_b5ff967c7393ad::t_e84a4ed2951976 571-573,578-586
+  s_b5ff967c7393ad::t_31c0056d9cdba3 704-707,709,711-714
+  s_b5ff967c7393ad::t_8b101cd776100f 402-421,424-435,438,441-444,446-452,454-462,464-466
+  s_b5ff967c7393ad::t_b4856c9776c540 492
+  s_b5ff967c7393ad::t_4588517c806d2c 3,385-386,490-491,565-567,689-690,699,726,760,794,812
+csrc/jit_kernels/impls/moe_align.hpp
+  s_b5ff967c7393ad::t_632aa0cef1c1cf 387,389,391,393,407,409,414,422,426-427
+  s_b5ff967c7393ad::t_d45ead34165c69 35,61,74,109,120,141,173,176,182,186-187,218,228,231-233,250,252,261,382-384,444,455,472
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "407279021bdfef79cc04b3fb757283200e249d1a",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
