@@ -1,0 +1,20 @@
+csrc/jit_kernels/impls/moe_align.hpp
+  s_b5ff967c7393ad::t_f6db8f9afb7abf 392
+  s_b5ff967c7393ad::t_5a785a0af78d17 452,454
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d5690e7db1a2d969bdad525e50652dc1ea12f4a7",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
