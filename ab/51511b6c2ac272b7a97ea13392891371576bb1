@@ -1,0 +1,19 @@
+deep_gemm/include/deep_gemm/impls/fused_gemm_util.cuh
+  s_b5ff967c7393ad::t_677a0796ec1870 612,631-640
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab51511b6c2ac272b7a97ea13392891371576bb1",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
