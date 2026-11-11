@@ -1,0 +1,21 @@
+csrc/jit_kernels/impls/moe_align.hpp
+  s_b5ff967c7393ad::t_a985b37198435f 396-398
+tests/test_moe_align_invalid_routes.py
+  s_b5ff967c7393ad::t_56ee2c43fa67fe 80-94,97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "de2ac01a927289d1985d4d3b38731e4f87fd8d2b",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
