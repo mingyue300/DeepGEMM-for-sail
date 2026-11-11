@@ -1,0 +1,38 @@
+deep_gemm/include/deep_gemm/impls/fused_gemm_util.cuh
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 3,330-331,336,348-350,352,354-364,368,370-382,386,388-402,404-411,413-424,427,429,431-439,441-443,449-450,509-511,515-518,523-531,537-539,541-544,550-551,596,611-614,618,623-624,629-632,634,636-639
+tests/checkin/checkin_890p.list
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 379-381
+tests/test_w4a8.py
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 231,239,439,445,504,510-512,520-521,527,549-550,579,582,692,707,722,730,855,857,863
+tests/test_fp4_core.py
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 391,397,413,463-465
+csrc/jit_kernels/impls/moe_align.hpp
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 3,32,34,73,102,108,119,140,172,181,185-186,227,230,232,249,251,260,391-393,397,399,401,415,417,422,430-435,450,461,463,478
+README.md
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 170-171
+tests/run_deep_gemm.py
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 69-75,99
+tests/utils.py
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 524,526-528,617,626,1194,1199,2046,2075-2078
+tests/test_w4a8_nvfp4.py
+  s_b5ff967c7393ad::t_e755c58e36e604 244,252,301-305
+tests/test_moe_align_invalid_routes.py
+  s_b5ff967c7393ad::t_03e72f07e3c7f8 2-3,9,24-26,29,34,40-80,82-93,96,98,101-102,107-108,110-111,115-121,132-133
+  s_b5ff967c7393ad::t_e8751d7aed0713 134-135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e38008cd9013af2711e00a5c9245a98c6f63f1b9",
+  "prompts": {},
+  "sessions": {
+    "s_b5ff967c7393ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0666e-0504-7843-aee8-aa9bd4d33855",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "铭阅 <wangyingjie.wyj@antgroup.com>"
+    }
+  }
+}
